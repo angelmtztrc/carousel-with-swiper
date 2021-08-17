@@ -14,14 +14,10 @@ export const Slider = ({ people }: SliderProps) => {
     <Swiper
       className="w-full"
       loop={true}
-      slidesPerView={2}
-      spaceBetween={48}
+      slidesPerView={1}
+      spaceBetween={10}
       autoplay={{ delay: 3000, disableOnInteraction: false }}
       breakpoints={{
-        320: {
-          slidesPerView: 1,
-          spaceBetween: 10
-        },
         1024: {
           slidesPerView: 2,
           spaceBetween: 48
