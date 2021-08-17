@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Vera Reyes",
+    "picture": "https://randomuser.me/api/portraits/women/50.jpg",
+    "position": "UX/UI",
+    "testimonial": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  },
+  {
+    "id": 2,
+    "name": "Roger Henderson",
+    "picture": "https://randomuser.me/api/portraits/men/75.jpg",
+    "position": "Front-end Developer",
+    "testimonial": "Elementum eu facilisis sed odio. Euismod nisi porta lorem mollis aliquam. Mattis enim ut tellus elementum sagittis vitae et. In metus vulputate eu scelerisque felis imperdiet. Hendrerit dolor magna eget est lorem ipsum dolor sit amet."
+  },
+  {
+    "id": 3,
+    "name": "Lori Sanders",
+    "picture": "https://randomuser.me/api/portraits/women/84.jpg",
+    "position": "Front-end Developer",
+    "testimonial": "Nulla malesuada pellentesque elit eget gravida cum sociis natoque. Et tortor at risus viverra adipiscing at in tellus. Urna neque viverra justo nec ultrices dui sapien."
+  },
+  {
+    "id": 4,
+    "name": "Allan Chavez",
+    "picture": "https://randomuser.me/api/portraits/men/33.jpg",
+    "position": "Back-end Developer",
+    "testimonial": "Elementum eu facilisis sed odio. Euismod nisi porta lorem mollis aliquam. Mattis enim ut tellus elementum sagittis vitae et. In metus vulputate eu scelerisque felis imperdiet. Hendrerit dolor magna eget est lorem ipsum dolor sit amet."
+  }
+]
