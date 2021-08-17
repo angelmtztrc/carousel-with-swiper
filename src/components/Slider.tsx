@@ -17,6 +17,16 @@ export const Slider = ({ people }: SliderProps) => {
       slidesPerView={2}
       spaceBetween={48}
       autoplay={{ delay: 3000, disableOnInteraction: false }}
+      breakpoints={{
+        320: {
+          slidesPerView: 1,
+          spaceBetween: 10
+        },
+        1024: {
+          slidesPerView: 2,
+          spaceBetween: 48
+        }
+      }}
     >
       {people.map(person => (
         <SwiperSlide key={person.id} className="h-full">
